@@ -1,6 +1,6 @@
 # Air Quality App
 
-The Weather App is a simple GUI-based application that displays air quality data for a given city. It uses the [World Air Quality Index (AQI)](https://waqi.info/) API to retrieve the air quality data for the selected city.
+The Air Quality App is a simple GUI-based application that displays air quality data for a given city. It uses the [World Air Quality Index (AQI)](https://waqi.info/) API to retrieve the air quality data for the selected city.
 
 ## Getting Started
 
