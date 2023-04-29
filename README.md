@@ -53,4 +53,4 @@ To run the Weather App, you'll need to have Python 3 installed on your machine. 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. 
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TheHumanoidTyphoon/air-quality-app/blob/master/LICENSE) file for details. 
