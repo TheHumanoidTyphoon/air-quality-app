@@ -8,20 +8,20 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-To run the Weather App, you'll need to have Python 3 installed on your machine. You can download it [here](https://www.python.org/downloads/).
+To run the Air Quality App, you'll need to have Python 3 installed on your machine. You can download it [here](https://www.python.org/downloads/).
 
 ### Installing
 
 1. Clone the repository:
 
    ```
-   $ git clone https://github.com/your_username/weather-app.git
+   $ git clone https://github.com/TheHumanoidTyphoon/air-quality-app.git
    ```
 
 2. Navigate into the project directory:
 
    ```
-   $ cd airquality-app
+   $ cd air-quality-app
    ```
 
 3. Install the required packages:
